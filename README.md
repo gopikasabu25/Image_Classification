@@ -50,18 +50,21 @@ This is a simple image classification project that identifies whether an uploade
 
 ### ✅ Step 1: Install Requirements
 
-```bash
+'''bash
 pip install streamlit tensorflow pillow numpy
 
 ### ✅ Step 2: Run the App
 
-```bash
+'''bash
 streamlit run app.py
+
 
 Then go to: http://localhost:8501 in your browser.
 
-![Screenshot](sample.png)
+![Screenshot](https://github.com/gopikasabu25/Image_Classification/blob/main/sample.png)
 
+
+![Screenshot](https://github.com/gopikasabu25/Image_Classification/blob/main/sample1.png)
 
 ----
 
