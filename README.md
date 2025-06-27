@@ -69,15 +69,6 @@ Then go to: http://localhost:8501 in your browser.
 ![Screenshot](https://github.com/gopikasabu25/Image_Classification/blob/main/sample1.png)
 
 ----
-Project Structure:
-
-cat_dog_classification/
-├── app.py                   # Streamlit app for local demo
-├── catdog_model.h5          # Trained CNN model file
-├── cat_dog_classifier.ipynb # Jupyter notebook for model training and evaluation
-├── requirements.txt         # List of required Python packages
-└── README.md                # Project documentation
-
 ##📚 Credits
 
 Dataset credit: Microsoft via [Kaggle](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset)
