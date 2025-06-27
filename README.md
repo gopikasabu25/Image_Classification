@@ -51,11 +51,13 @@ This is a simple image classification project that identifies whether an uploade
 ### ✅ Step 1: Install Requirements
 
 '''bash
+
 pip install streamlit tensorflow pillow numpy
 
 ### ✅ Step 2: Run the App
 
 '''bash
+
 streamlit run app.py
 
 
@@ -67,15 +69,14 @@ Then go to: http://localhost:8501 in your browser.
 ![Screenshot](https://github.com/gopikasabu25/Image_Classification/blob/main/sample1.png)
 
 ----
-
-## Project Structure:
+Project Structure:
 
 cat_dog_classification/
-├── app.py                # Streamlit app script (local only)
-├── catdog_model.h5       # Trained model file
-├── cat_dog_classifier.ipynb # Training + evaluation notebook
-├── requirements.txt      # Python dependencies
-└── README.md             # Project description
+├── app.py                   # Streamlit app for local demo
+├── catdog_model.h5          # Trained CNN model file
+├── cat_dog_classifier.ipynb # Jupyter notebook for model training and evaluation
+├── requirements.txt         # List of required Python packages
+└── README.md                # Project documentation
 
 ##📚 Credits
 
